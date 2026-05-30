@@ -96,7 +96,7 @@ Em seguida adicionamos **ruído gaussiano** ao target, para simular variações 
 
 ### Instalação
 ```bash
-git clone 
+git clone https://github.com/Pontessxx/Generative-ai-GlobalSoluction-ASTRAFARM
 cd gs-astrafarm-irrigacao
 pip install -r requirements.txt
 ```
