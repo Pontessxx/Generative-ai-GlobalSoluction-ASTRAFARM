@@ -1,0 +1,14 @@
+{
+  "MLPRegressor": {
+    "r2_treino": 0.9910036789264915,
+    "r2_teste": 0.9881568370545671,
+    "mae_teste_litros_m2": 1.440575389912483,
+    "mape_teste_pct": 37.70190346850569
+  },
+  "XGBRegressor": {
+    "r2_treino": 0.9996795264895637,
+    "r2_teste": 0.9771040755519349,
+    "mae_teste_litros_m2": 1.9008328119524784,
+    "mape_teste_pct": 47.31005051163907
+  }
+}
