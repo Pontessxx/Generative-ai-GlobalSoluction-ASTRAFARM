@@ -11,6 +11,9 @@ Predição da **necessidade de irrigação (litros/m² por mês)** a partir de d
 * Pedro Henrique Paladino - RM551180
 * Gabriel Diegues Figueiredo Rocha - RM550788
 
+# É recomendado rodar localmente pois o codigo é extenso e o git não renderizou:
+![alt text](image.png)
+![alt text](image-1.png)
 ---
 
 ## Critérios do GS
